@@ -1,5 +1,3 @@
-.card {
-  max-width: 500px;}
   @include media-breakpoint-up(sm) {
   .custom-class {
     display: block;
